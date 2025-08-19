@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Typing from './Typing'
 import { LeaderboardProvider } from './context/leaderboardContext'
 
